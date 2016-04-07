@@ -38,7 +38,7 @@
 	    /**
 	     * 
 	     * @param n numero introducido por teclado.	
-	     * @param x nuemero generado aleatoriamente por la máquina
+	     * @param x nuemero generado aleatoriamente por la máquina.
 	     * @return devuelve un booleano con verdadero o falso.
 	     */
 
